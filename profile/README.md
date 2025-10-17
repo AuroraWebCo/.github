@@ -1,6 +1,9 @@
-# 🌌 Aurora
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/238557305?s=400&u=5ab3fc8d40954f89b23b6a0c99adf580950dcf67&v=4" width="120" alt="Aurora Logo">
+</p>
 
-**Innovating the web — one browser at a time.**
+<h1 align="center">Aurora Web Co.</h1>
+<p align="center"><em>Innovating the web — one browser at a time.</em></p>
 
 ---
 
